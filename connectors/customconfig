@@ -1,0 +1,8 @@
+connectors:
+-
+  connector_id: "XViKiI4BqtH-I4mm6R4N"
+  service_type: "sharepoint_online"
+  api_key: "ZjFpeWlJNEJxdEgtSTRtbThSNUI6aDV5c0pyai1Ua0dScG1QQjRROFRqQQ=="
+elasticsearch:
+  host: "https://a93e801fb32c4855aa315e7485a153ba.us-central1.gcp.cloud.es.io:443"
+  api_key: "ZjFpeWlJNEJxdEgtSTRtbThSNUI6aDV5c0pyai1Ua0dScG1QQjRROFRqQQ=="
